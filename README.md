@@ -270,5 +270,5 @@ ML-Model-For-Ecommerce-Purchase-Prediction/
 
 ## Author
 
-**Parth Jaiswal**
-B.Tech CSE — AI/ML & Robotics
+**Parth Jaiswal**<br>
+B.Tech CSE — AI/ML & Robotics    
